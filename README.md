@@ -1,2 +1,9 @@
-# math-papers
-Mathematics research papers and supplementary materials
+# 数学论文 · Math Papers
+
+这里用于发布数学研究论文及其补充材料。
+
+## 论文列表
+
+暂无已发布论文。每篇论文将列出题目、作者、版本日期和 PDF 链接。
+
+[论文目录及发布说明](papers/)
